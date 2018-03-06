@@ -1,0 +1,28 @@
+²âÊÔ:
+IP:101.200.143.107
+VPNIP:172.16.0.11
+ÓÃ»§:jqfax
+ÃÜÂë:xunlpxSNqvgql3ilwkroj%0|rtoc%ptf
+
+SIT:
+IP:182.92.100.22
+ÓÃ»§:jqfax
+ÃÜÂë:ijosgbBpp2ucdzwovcwogqrjadeXgl6c   
+×îÉÏ±ßĞ¡Ô²È¦ ÓÃ»§Ãû shenzhuangzhuang ÃÜÂë£º123456 VPNIP:172.16.0.9  ¶Ë¿Ú9272
+
+
+²âÊÔDB:
+µØÖ·:rdse79wwydh3t3x5hmg0.mysql.rds.aliyuncs.com
+ÓÃ»§:jjsdbtest
+ÃÜÂë:jjsdbtest     
+
+
+bugfree ÕË»§£ºshenzhuang ÃÜÂë£º123456
+
+ÓÊÏäÕË»§£ºshenzhuang ÃÜÂë£ºSzz941226
+
+EIPÕË»§£ºshenzhuang ÃÜÂë£ºSzz941226
+
+
+
+Ò³ÃæÏêÇéÇë²éÊÕ¸½¼ş
